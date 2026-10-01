@@ -1,1 +1,3 @@
-# oficina_git
+<p align="center">
+  <img src="./github.png">
+</p>
